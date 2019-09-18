@@ -193,8 +193,20 @@ body {
 }
 
 /*MAIN*/
-
 .main {
 	margin: 40px 0 20px;
 }
 
+/*FOOTER*/
+.footer {
+	display: flex;
+	justify-content: center;
+	padding: 20px 0;
+	background: linear-gradient(to right, #5571ff 20%, orange);
+}
+
+.footer__text {
+	font-family: Original, sans-serif;
+	font-size: 26px;
+	color: white;
+}
