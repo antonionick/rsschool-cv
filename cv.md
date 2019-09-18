@@ -42,3 +42,10 @@ I constantly learn something new and apply the acquired knowledge. I prefer not 
 - GeekBrains “Basics of HTML&CSS”
 - GeekBrains “Basics of JavaScript”
 
+**Education:**
+
+2018 - graduated college of Business and Law
+
+**English Level:**
+
+Pre-intermediate (A2+)<br>I read English documentation without problems. I can speak about not difficult topics and understand others person speech.
